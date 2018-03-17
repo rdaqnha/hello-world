@@ -1,1 +1,1 @@
-console.log("Creo release v1.0.0");
+console.log("commit para otra versión");
