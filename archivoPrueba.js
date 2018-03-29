@@ -1,2 +1,2 @@
 console.log("hago el commit del hotfix");
-console.log("prueba");
+console.log("prueba 2");
